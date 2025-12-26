@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "激情論",
+  "base_artist": "ZAQ",
+  "createdAt": "2025-12-26T06:05:19.934239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "激情論",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/01_激情論_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "激情論",
+      "artist": "Zaq",
+      "has_synced": true,
+      "path": "select/02_激情論_Zaq.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "激情論",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/03_激情論_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "激情論 (Off Vocal)",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/04_激情論_(Off_Vocal)_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "激情論 (Off Vocal)",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/05_激情論_(Off_Vocal)_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "激情論",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/06_激情論_ZAQ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "激情論",
+      "artist": "ZAQ",
+      "has_synced": false,
+      "path": "select/pl_01_激情論_ZAQ.txt"
+    }
+  ]
+}
